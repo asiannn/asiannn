@@ -1,6 +1,6 @@
 # hey, i'm Andrew 👋
 
-high school senior in charlotte, nc. building things on the web (proud claude max 20x user).
+high school senior in charlotte, nc. building things on the web (proud claude max 20x, codex 20x user).
 
 ### what i'm working on
 
