@@ -5,9 +5,10 @@ high school senior in charlotte, nc. building things on the web (proud claude ma
 ### what i'm working on
 
 - **[tame.gg](https://tame.gg)** — hypixel stats tracker, web benchmarks, also my portfolio lol
-- **[keila](https://tame.gg/projects/keila)**
-- **[Conduit](https://tame.gg/projects/Conduit)**
-- **[Silk](https://tame.gg/projects/SilkMC)**
+- **[keila](https://tame.gg/projects/keila)** Extremely optimized version of Purpur/Leaf.
+- **[Conduit](https://tame.gg/projects/Conduit)** Optimized Velocity with support for large modpacks
+- **[Silk](https://tame.gg/projects/SilkMC)** Optimized Folia Runtime
+- **[Planet](https://github.com/universeclouddev/Planet)** - Panel for Universe
 - **[NotchAgent](https://tame.gg/projects/NotchAgent)**
 
 - **tame-stats (iOS/iPadOS)** — swiftui port of the web app. MVVM, swift charts, navigationsplitview
