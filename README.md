@@ -8,10 +8,7 @@ high school senior in charlotte, nc. building things on the web (proud claude ma
 - **[keila](https://tame.gg/projects/keila)** — Extremely optimized version of Purpur/Leaf.
 - **[Conduit](https://tame.gg/projects/Conduit)** — Optimized Velocity with support for large modpacks
 - **[Silk](https://tame.gg/projects/SilkMC)** — Optimized Folia Runtime
-- **[Planet](https://github.com/universeclouddev/Planet)** - Panel for Universe
 - **[NotchAgent](https://tame.gg/projects/NotchAgent)**
-
-- **tame-stats (iOS/iPadOS)** — swiftui port of the web app. MVVM, swift charts, navigationsplitview
 - **tame-stats-bot** — companion discord bot. bun + discord.js v14 + bun:sqlite
 - 
 ### before this
