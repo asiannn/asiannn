@@ -10,7 +10,8 @@ high school senior in charlotte, nc. building things on the web (proud claude ma
 - **[Silk](https://tame.gg/projects/SilkMC)** — Optimized Folia Runtime
 - **[NotchAgent](https://tame.gg/projects/NotchAgent)**
 - **tame-stats-bot** — companion discord bot. bun + discord.js v14 + bun:sqlite
-- 
+
+- on path for IT at chipotle
 ### before this
 
 - prev. advisor @ tesla
