@@ -1,6 +1,7 @@
 # hey, i'm Andrew 👋
 
 high school senior in charlotte, nc. building things on the web (proud cursor user).
+- advisor @ tesla
 
 ### what i'm working on
 
@@ -10,10 +11,8 @@ high school senior in charlotte, nc. building things on the web (proud cursor us
 - **[NotchAgent](https://tame.gg/projects/NotchAgent)**
 - **tame-stats-bot** — companion discord bot. bun + discord.js v14 + bun:sqlite
 
-- on path for IT at chipotle
 ### before this
 
-- prev. advisor @ tesla
 - COO @ lunarlabs (game dev studio)
 
 ### off the clock
