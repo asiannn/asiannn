@@ -21,7 +21,6 @@ producing music in fl studio (shure mv7+, adam t8v's) ·
 
 (breaking) my pc:
 AMD Ryzen 9 9950X3D | 
-Nvidia GeForce RTX 5090 | 
 128GB DDR5 CL30 @ 6000 MT/s | 
 7TB Gen 5 NVMe(s) | 
 1250w PSU
